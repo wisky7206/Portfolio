@@ -40,7 +40,7 @@ body{
     color:white;
     text-decoration: none;
     font-weight: 500;
-    margin-left: 35px;
+    margin-left: 48px;
     transition: .3s;
 
 }
@@ -62,17 +62,17 @@ body{
     max-width: 600px;
 }
 .home-content h1{
-    font-size: 45px;
+    font-size: 30px;
     font-weight: 700;
 }
 .home-content h3{
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 600;
     color: #00b4d8;
 }
 .home-content p{
-    font-size: 13px;
-    font-weight: 400;
+    font-size: 15px;
+    font-weight: 500;
     margin-bottom: 10px;
 }
 .home-content .btn{
